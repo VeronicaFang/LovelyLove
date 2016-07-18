@@ -861,7 +861,6 @@ input[type="button"]:disabled,
 /* Banner */
 
 #banner {
-    background-color: #666666;
     background-image: url("../images/Resize/_9010068-16*9.jpg");
     background-size: cover;
     background-position: center center;
