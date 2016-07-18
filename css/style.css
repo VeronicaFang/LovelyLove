@@ -861,7 +861,8 @@ input[type="button"]:disabled,
 /* Banner */
 
 #banner {
-    background-image: image() background-image: url("http://dearlovelylove.online/images/Resize/lovelylove4.jpg");
+    background-image: url("http://dearlovelylove.online/images/Resize/lovelylove4.jpg");
+    background-image: url("../images/Resize/lovelylove4.jpg");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
